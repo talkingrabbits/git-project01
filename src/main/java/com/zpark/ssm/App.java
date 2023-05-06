@@ -10,6 +10,6 @@ public class App {
         System.out.println("hanlu master first push GitHub!");
         System.out.println("hanlu master second push GitHub!");
         System.out.println("hanlu master third push GitHub!");
-        System.out.println("hanlu master forth push GitHub!");
+        System.out.println("hanlu master forth1 push GitHub!");
     }
 }
