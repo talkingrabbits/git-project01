@@ -8,10 +8,5 @@ public class App {
         System.out.println("hanlu111111111111");
         System.out.println("hanlu2222111");
         System.out.println("hanlu master first push GitHub!");
-        System.out.println("hanlu master second push GitHub!");
-        System.out.println("hanlu master third push GitHub!");
-        System.out.println("hanlu master 1111 push GitHub!");
-        System.out.println("hanlu master 2222 push GitHub!");
-        System.out.println("hanlu master 333 push GitHub!");
     }
 }
