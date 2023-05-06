@@ -7,5 +7,6 @@ public class App {
         System.out.println("ha33331111");
         System.out.println("hanlu111111111111");
         System.out.println("hanlu2222111");
+        System.out.println("hanlu master first push GitHub!");
     }
 }
